@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fsp-ao.shortpixel.ai%2Fclient%2Fto_auto%2Cq_glossy%2Cret_img%2Fhttps%3A%2F%2Fwww.arkasoftwares.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F01%2Fheader_banner-6.jpg&imgrefurl=https%3A%2F%2Fwww.arkasoftwares.com%2Fblog%2Ftop-10-major-trends-to-follow-in-full-stack-development%2F&tbnid=bJ_EaguNnko8MM&vet=10CAgQxiAoCmoXChMI8IT7yb24_QIVAAAAAB0AAAAAEB0..i&docid=90WDH_v08r98EM&w=1900&h=737&itg=1&q=banner%20gif%20images%20for%20coding&ved=0CAgQxiAoCmoXChMI8IT7yb24_QIVAAAAAB0AAAAAEB0)](https://rishaechanda.io)
+[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
 <h1 align="center">Yo, I'm Mahesh</h1>
 <h3 align="center">Just a developer working hard.</h3>
-<img align="right" alt="Coding" width="400' src="https://gettrendygifs.wordpress.com/tag/coding/">
+<img align="right"  width="400' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="punmahesh" /> </p>
 
