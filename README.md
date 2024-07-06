@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Yo, I'm Mahesh</h1>
 <h3 align="center">Just a developer working hard.</h3>
-<img align="right"  width="200' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right"  width="200' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fankitt26%2Fankitt26%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw0wwE1nfGgBRRWjvwerFihm&ust=1720330623754000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLizzZbZkYcDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="punmahesh" /> </p>
 
