@@ -7,7 +7,7 @@
 
 - 🔭 
 
-- 📫 How to reach me **np03cs4a210055@heraldcollege.edu.np**
+- 📫 How to reach me **maheshpun11@gmail.com**
 
 - ⚡ Fun fact **Always ready to have fun.**
 
